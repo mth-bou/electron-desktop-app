@@ -1,0 +1,13 @@
+/node_modules
+
+# Output build files
+/out
+
+.env
+
+# Jetbrains folder
+.idea
+
+drag-and-drop-1.md
+drag-and-drop-2.md
+iconForDragAndDrop.png
