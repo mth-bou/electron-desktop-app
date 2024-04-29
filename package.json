@@ -1,7 +1,7 @@
 {
   "name": "electron-desktop-app",
   "version": "1.0.0",
-  "description": "Fist desktop app with NodeJS using Electron",
+  "description": "First desktop app with NodeJS using Electron",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
